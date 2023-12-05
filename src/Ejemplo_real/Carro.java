@@ -10,6 +10,8 @@ public class Carro {
     private String modelo;
     private String color;
     private int year;
+    private int datos;
+    String nombre;
     
     
     public int getPlaca() {
